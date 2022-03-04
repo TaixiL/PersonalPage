@@ -110,12 +110,12 @@ layout: default
           <a href="#">Final Report</a>
         </div>
         
-        <object data="https://taixil.github.io/STOR-565-Final-Project/Biweekly_Report_Template.pdf" type="application/pdf" width="1200px" height="1200px">
+        <object data="https://taixil.github.io/STOR-565-Final-Project/Biweekly-Report/Biweekly_Report1.pdf" type="application/pdf" width="1200px" height="1200px">
         </object>
         <p>
 
         </p>
 
-        <p>If this browser does not support PDFs, please download the PDF to view it: <a href="https://github.com/TaixiL/STOR-565-Final-Project/blob/main/Biweekly_Report_Template.pdf">Download PDF</a>.</p>
+        <p>If this browser does not support PDFs, please download the PDF to view it: <a href="https://github.com/TaixiL/STOR-565-Final-Project/blob/main/Biweekly_Report1.pdf">Download PDF</a>.</p>
     </body>
 </html>
