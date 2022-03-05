@@ -128,7 +128,7 @@ layout: default
             }
             </script>
                  
-        <object data="https://taixil.github.io/STOR-565-Final-Project/Biweekly-Report/Biweekly_Report1.pdf" type="application/pdf" width="1200px" height="1200px">
+        <object data="https://taixil.github.io/STOR-565-Final-Project/biweekly/Biweekly_Report1.pdf" type="application/pdf" width="1200px" height="1000px">
         </object>
         <p>
 
