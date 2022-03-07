@@ -102,7 +102,7 @@
             <a href="#">Report 2</a>
             <a href="#">Report 3</a>
           </div>
-          <a href="#">Project Proposal</a>
+          <a href="https://taixil.github.io/STOR-565-Final-Project/project-proposal">Project Proposal</a>
           <a href="#">Final Report</a>
         </div>
 
