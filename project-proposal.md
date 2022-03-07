@@ -134,6 +134,6 @@ layout: default
 
         </p>
 
-        <p>If this browser does not support PDFs, please download the PDF to view it: <a href="https://github.com/TaixiL/STOR-565-Final-Project/blob/main/Outliers_project_proposal.html">Download PDF</a>.</p>
+        <p>If this browser does not support HTML, please download the file to view it: <a href="https://github.com/TaixiL/STOR-565-Final-Project/blob/main/Outliers_project_proposal.html">Download PDF</a>.</p>
     </body>
 </html>
