@@ -103,7 +103,7 @@ layout: default
           </button>
           <div class="dropdown-container">
             <a href="https://taixil.github.io/STOR-565-Final-Project/biweekly-report1">Report 1</a>
-            <a href="#">Report 2</a>
+            <a href="https://taixil.github.io/STOR-565-Final-Project/biweekly-report2">Report 2</a>
             <a href="#">Report 3</a>
           </div>
           <a href="https://taixil.github.io/STOR-565-Final-Project/project-proposal">Project Proposal</a>
