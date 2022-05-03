@@ -107,7 +107,7 @@ layout: default
             <a href="https://taixil.github.io/STOR-565-Final-Project/biweekly-report3">Report 3</a>
           </div>
           <a href="https://taixil.github.io/STOR-565-Final-Project/project-proposal">Project Proposal</a>
-          <a href="#">Final Report</a>
+          <a href="https://taixil.github.io/STOR-565-Final-Project/final-report">Final Report</a>
         </div>
         
          <script>
