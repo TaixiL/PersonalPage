@@ -1,5 +1,7 @@
-## STOR 565 Final Project
-#### Team [Outliers]
+## Hi, I am Taixi Lu.
+
+I am an undergraduate student majoring in Computer Science and Statistics and Analytics at University of North Carolina at Chapel Hill.
+
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
